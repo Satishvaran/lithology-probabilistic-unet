@@ -1,0 +1,11 @@
+{
+  "macro_f1": 0.13453147915740574,
+  "weighted_f1": 0.4812996881016177,
+  "balanced_accuracy": 0.2583183819458153,
+  "negative_log_likelihood": 1.8455778065375144,
+  "expected_calibration_error": 0.17788038110527143,
+  "model": "diagonal_gaussian_sanity_baseline",
+  "test_wells": 18,
+  "test_rows": 259860,
+  "warning": "Harness sanity check; not a competitive model."
+}

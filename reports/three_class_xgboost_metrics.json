@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.936902284559503,
+  "macro_f1": 0.8693855789753298,
+  "weighted_f1": 0.9353969123474476,
+  "balanced_accuracy": 0.8422464092465939,
+  "negative_log_likelihood": 0.19849663972854614,
+  "expected_calibration_error": 0.021125329171300767,
+  "test_wells": 24,
+  "test_rows": 266222
+}

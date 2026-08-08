@@ -1,0 +1,17 @@
+seed: 42
+features: [GR, RHOB, NPHI, RDEP, DTC, PEF]
+target: FORCE_2020_LITHOFACIES_LITHOLOGY
+well_column: WELL
+depth_column: DEPTH_MD
+sequence_length: 256
+sequence_stride: 128
+batch_size: 16
+epochs: 25
+learning_rate: 0.001
+weight_decay: 0.0001
+base_channels: 32
+latent_dim: 8
+kl_weight: 0.01
+validation_fraction: 0.15
+test_fraction: 0.15
+num_workers: 0

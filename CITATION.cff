@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Uncertainty-Aware Lithology Classification from Well Logs"
+message: "Please cite this software and the FORCE 2020 dataset."
+type: software
+version: 0.1.0
+date-released: 2026-08-09
+license: MIT
+references:
+  - type: dataset
+    title: "FORCE 2020 Well Log and Lithofacies Dataset for Machine Learning Competition"
+    authors:
+      - family-names: Bormann
+        given-names: Peter
+      - family-names: Aursand
+        given-names: Peder
+      - family-names: Dilib
+        given-names: Fahad
+      - family-names: Manral
+        given-names: Surrender
+      - family-names: Dischington
+        given-names: Peter
+    doi: 10.5281/zenodo.4351156
+    year: 2020
+  - type: article
+    title: "A Probabilistic U-Net for Segmentation of Ambiguous Images"
+    authors:
+      - family-names: Kohl
+        given-names: Simon A. A.
+    year: 2018
+    url: https://arxiv.org/abs/1806.05034
